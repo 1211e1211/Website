@@ -1,5 +1,6 @@
-body
-h1{ color; blue
+h1 {
+  color: blue;
 }
-p{ color; green
+p {
+  color: green;
 }
